@@ -26,3 +26,7 @@ Understanding some programming would let me treat this technology as a material 
 ## What Survives
 
 For my XR theatre practice, authorship does not depend on writing every line myself. It depends on whether I can explain why the system behaves as it does and take responsibility for how that behaviour affects actors, designers, directors, and audiences. I am here not because machines cannot write code. I am here because working code is not the same as the right work, and I need enough knowledge to recognise the difference.
+
+## References
+
+Beattie, D. (n.d.). *The art of code* [Video]. YouTube
