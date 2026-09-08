@@ -30,4 +30,5 @@ For my XR theatre practice, authorship does not depend on writing every line mys
 ## References
 
 Beattie, D. (n.d.). *The art of code* [Video]. YouTube
+
 Turing, On Computable Numbers.https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
